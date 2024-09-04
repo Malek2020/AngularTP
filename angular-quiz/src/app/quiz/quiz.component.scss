@@ -1,0 +1,21 @@
+.quiz {
+  &_title {
+    @apply text-2xl font-bold text-center mb-4;
+  }
+
+  &_reset {
+    @apply text-center;
+
+    button {
+      @apply my-2;
+    }
+  }
+
+  &_reset {
+    @apply text-center;
+
+    button {
+      @apply my-2;
+    }
+  }
+}
